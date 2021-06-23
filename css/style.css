@@ -1,0 +1,56 @@
+:root {
+    --warna-ungu : #d64ea1;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: var(--warna-ungu);
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;  
+}
+
+strong {
+    color: var(--warna-ungu);
+    font-weight: 600;
+}
+
+button {
+    text-decoration: none;
+    color: white;
+    background-color: var(--warna-ungu);
+    border: none;
+    padding: 16px 30px;
+    border-radius: 10px;
+    outline: none;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+button a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: #b14386;
+    transition: 0.3s;
+}
+
+        @media (max-width:992px) {
+            body {
+                text-align: center;
+            }
+            
+            button {
+                margin-bottom: 30px;
+            }
+        }
