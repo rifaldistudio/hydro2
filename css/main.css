@@ -16,8 +16,12 @@ body {
     justify-content: center;
 }
 
-.konten-full {
-    height: 100vh;
+.hero {
+    margin: 100px auto;
+}
+
+.section {
+    margin: 100px auto;
 }
 
 .kiri img {
