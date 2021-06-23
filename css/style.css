@@ -2,6 +2,7 @@
     --warna-ungu : #d64ea1;
     --warna-hijau : #2c9f29;
     --warna-biru : #2892ff; 
+    --warna-oren : #f68a1e;
 }
 
 h1 {
@@ -13,6 +14,12 @@ h1 {
 h3 {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;  
+}
+
+h5 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;  
+    color: white;
 }
 
 strong {
@@ -56,3 +63,7 @@ button:hover {
                 margin-bottom: 30px;
             }
         }
+
+.carousel img {
+    max-width: 100%;
+  }
