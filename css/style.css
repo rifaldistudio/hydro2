@@ -22,6 +22,10 @@ h5 {
     color: white;
 }
 
+p {
+    color: black;
+}
+
 strong {
     color: var(--warna-ungu);
     font-weight: 600;
