@@ -17,11 +17,7 @@ body {
 }
 
 .hero {
-    margin: 100px auto;
-}
-
-.section {
-    margin: 100px auto;
+    height: 100vh;
 }
 
 .kiri img {
@@ -42,7 +38,22 @@ body {
                 justify-content: center;
                 align-items: center;
             }
+
+            .kanan img {
+                max-width: 100%;
+                border: none;
+                border-radius: 0px;
+            }
+
         }
+
+.section1 {
+    background-color: var(--warna-hijau);
+}
+
+.section1 h1, p {
+    color: white;
+}
 
 .apaitu {
     flex-direction: column;
