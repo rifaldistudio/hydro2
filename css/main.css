@@ -112,7 +112,7 @@ body {
 }
 
 .section5 h1, p {
-    color: white;
+    color: white !important;
 }
 
 .Kelebihan img {
