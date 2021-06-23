@@ -27,8 +27,6 @@ body {
 
 .kanan img {
     max-width: 100%;
-    border: solid 5px  var(--warna-ungu);
-    border-radius: 500px;
 }
 
         @media (max-width:992px) {
@@ -37,12 +35,6 @@ body {
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
-            }
-
-            .kanan img {
-                max-width: 100%;
-                border: none;
-                border-radius: 0px;
             }
 
         }
