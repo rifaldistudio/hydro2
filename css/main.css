@@ -75,3 +75,27 @@ body {
 .testimoni video {
     max-width: 100%;
 }
+
+.video {
+    padding: 10px;
+}
+
+.section2 {
+    background-color: white;
+}
+
+.section3 {
+    background-color: var(--warna-biru);
+}
+
+.section3 h1, p {
+    color: white;
+}
+
+.carousel img {
+    max-width: 100%;
+  }
+
+  .para-ahli {
+      text-align: center;
+  }
