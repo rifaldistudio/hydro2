@@ -162,3 +162,14 @@ body {
     padding: 0px 20px;
     margin: 25px auto;
 }
+
+.shape {
+    background-image: url(../img/bg-shape.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: bottom;
+}
+
+.shape-p {
+    margin-bottom: 100px;
+} 

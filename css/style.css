@@ -72,3 +72,23 @@ button:hover {
 .carousel img {
     max-width: 100%;
   }
+
+    
+        @media (max-width:992px) {
+            .mobile {
+                display: block;
+            }
+            .desktop {
+                display: none;
+            }
+        }
+
+        @media (min-width:992px) {
+            .mobile {
+                display: none;
+            }
+
+            .desktop {
+                display: block;
+            }
+        }

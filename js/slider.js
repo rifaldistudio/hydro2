@@ -13,6 +13,13 @@ $('#slider2').carousel({
 });
 
 $('#slider3').carousel({
+    interval: 15000,
+    wrap: true,
+    keyboard: true,
+    touch: true
+});
+
+$('#slider4').carousel({
     interval: 4000,
     wrap: true,
     keyboard: true,
