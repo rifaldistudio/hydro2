@@ -138,3 +138,27 @@ body {
     color: black !important;
     text-align: center;
 }
+
+.section-manfaat {
+    background-color: var(--warna-birutua);
+
+}
+
+.section-manfaat h1, p {
+    color: white !important;
+    text-align: left;
+}
+
+.section-manfaat ol li p, ul li p {
+    color:white !important;
+    margin: 0;
+}
+
+.section-manfaat {
+    color: white !important;
+}
+
+.manfaat {
+    padding: 0px 20px;
+    margin: 25px auto;
+}
