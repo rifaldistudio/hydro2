@@ -56,6 +56,10 @@ body {
     text-align: center;
 }
 
+.apaitu p {
+    text-align: center !important;
+}
+
 .testimoni {
     display: flex;
     flex-direction: column;
