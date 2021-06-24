@@ -93,3 +93,25 @@ button:hover {
                 display: block;
             }
         }
+
+.shape {
+    background-image: url(../img/bg-shape.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: bottom;
+}
+
+.shape-r {
+    background-image: url(../img/bg-shape-r.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: top;
+}
+
+.shape-pb {
+    margin-bottom: 100px;
+}
+
+.shape-pt {
+    margin-top: 100px;
+} 
