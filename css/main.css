@@ -183,3 +183,97 @@ body {
 .shape-p {
     margin-bottom: 100px;
 } 
+
+.badge-kanan img, .badge-kiri img {
+    max-width: 50%;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.section7 h2, .section7 h5, .section7 strong {
+    color: black !important;
+    text-align: left !important;
+}
+
+.kiri-ctn img {
+    float: right;
+    max-width: 40%;
+    border: solid gray 7px;
+    border-radius: 100%;
+}
+
+.kanan-ctn {
+    float: left;
+}
+
+.badge-kiri img {
+    float: right;
+}
+
+.badge-kanan img {
+    float: left;
+}
+
+.judul-sec7 {
+    margin: 30px auto;
+    text-align: center;
+}
+
+.judul-sec7 h1 {
+    color: rgb(255, 24, 24);
+}
+
+        @media (max-width:992px) {
+            .kiri-ctn img {
+                float: none;
+            }
+            
+            .kanan-ctn, .badge-kiri img, .badge-kanan img {
+                float: none;
+            }
+
+            .section7 h2, .section7 h5, .section7 strong {
+                color: black !important;
+                text-align: center !important;
+            }
+
+            .section7 h1 {
+                margin-top: 30px;
+            }
+
+            .badge-kanan img, .badge-kiri img {
+                max-width: 100%;
+            }
+        }
+
+.judul-sec8 h1, .judul-sec8 h3, .judul-sec8 p {
+    text-align: center !important;
+    margin: 30px auto;
+    color: white !important;
+}
+
+.judul-sec9 h2, .judul-sec9 h3, .judul-sec9 strong {
+    text-align: center !important;
+    margin: 30px auto;
+    color: white !important;
+}
+
+.judul-sec9 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.section9 button {
+    background-color: orange;
+}
+
+.section9 {
+    background-color: var(--warna-birutua);
+}
+
+.section8 {
+    background-color: rgb(255, 24, 24);
+}
