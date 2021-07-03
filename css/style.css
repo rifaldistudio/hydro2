@@ -116,6 +116,16 @@ button:hover {
     margin-top: 100px;
 } 
 
+@media (max-width:992px){
+    .shape-pb {
+        margin-bottom: 0px;
+    }
+    
+    .shape-pt {
+        margin-top: 0px;
+    } 
+}
+
 @media (max-width:768px) {
     h1 {
         font-size: 38px;
