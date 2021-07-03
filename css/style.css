@@ -142,6 +142,7 @@ button:hover {
     h1 {
         font-size: 25px;
     }
+}
 
 @media (max-width:365px) {
     h1 {

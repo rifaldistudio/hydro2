@@ -43,6 +43,18 @@ body {
     padding: 100px 0px;
 }
 
+    @media (max-width:768px) {
+        .container-fluid {
+            padding: 70px 0px;
+        }
+    }
+
+    @media (max-width:525px) {
+        .container-fluid {
+            padding: 50px 0px;
+        }
+    }
+
 .section1 {
     background-color: var(--warna-hijau);
 }
@@ -244,7 +256,7 @@ body {
 
             .badge-kanan img, .badge-kiri img {
                 max-width: 100%;
-                margin: 30px 0px;
+                margin: 3px 0px;
             }
 
 
