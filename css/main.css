@@ -292,3 +292,22 @@ body {
 .section8 {
     background-color: rgb(184, 48, 48);
 }
+
+.sertifikasi img {
+    margin: 50px 25px 0px 25px;
+    max-width: 10%;
+}
+
+        @media (max-width:768px) {
+            .sertifikasi img {
+                margin: 50px 20px 0px 20px;
+                max-width: 18%;
+            }
+        }
+
+        @media (max-width:576px) {
+            .sertifikasi img {
+                margin: 50px 15px 0px 15px;
+                max-width: 20%;
+            }
+        }
