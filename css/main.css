@@ -244,7 +244,10 @@ body {
 
             .badge-kanan img, .badge-kiri img {
                 max-width: 100%;
+                margin: 30px 0px;
             }
+
+
         }
 
 .judul-sec8 h1, .judul-sec8 h3, .judul-sec8 p {
@@ -275,5 +278,5 @@ body {
 }
 
 .section8 {
-    background-color: rgb(255, 24, 24);
+    background-color: rgb(184, 48, 48);
 }
