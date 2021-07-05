@@ -162,3 +162,10 @@ button:hover {
         font-size: 14px;
     }
 }
+
+
+table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
