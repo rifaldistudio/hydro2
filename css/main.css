@@ -98,7 +98,7 @@ body {
 }
 
 .video h1 {
-    color: black !important;
+    color: var(--warna-hitam) !important;
     text-align: center;
 }
 
@@ -160,7 +160,7 @@ body {
 }
 
 .section6 h1 {
-    color: black !important;
+    color: var(--warna-hitam) !important;
     text-align: center;
 }
 
@@ -204,7 +204,7 @@ body {
 }
 
 .section7 h2, .section7 h5, .section7 strong {
-    color: black !important;
+    color: var(--warna-hitam) !important;
     text-align: left !important;
 }
 
@@ -246,7 +246,7 @@ body {
             }
 
             .section7 h2, .section7 h5, .section7 strong {
-                color: black !important;
+                color: var(--warna-hitam) !important;
                 text-align: center !important;
             }
 
@@ -327,7 +327,7 @@ body {
 }
 
 .isi-pj p {
-    color: black !important;
+    color: var(--warna-hitam) !important;
     margin: 0px;
 }
 
