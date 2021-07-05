@@ -312,30 +312,40 @@ body {
             }
         }
 
-.header-pj {
-    text-align: center !important;
-    padding-top: 20px;
-    padding-bottom: 20px;
+.section10 {
+    text-align: center;
+    color: black !important;
 }
 
-.isi-pj br {
+.section10 h1 {
+    color: black !important;
+}
+
+.paket-join {
+    text-align: center;
+}
+
+.header-pj1 {
+    color: black !important;
+    background-color: rgb(255, 196, 0);
+    padding: 10px;
+}
+
+.header-pj1 h5 {
+    color: black !important;
     margin: 0px;
-}
-
-.isi-pj {
-    text-align: center !important;
 }
 
 .isi-pj p {
-    color: var(--warna-hitam) !important;
-    margin: 0px;
+    color: black !important;
 }
 
-.header-pj h2 strong {
-    color: white !important;
-    margin: 0px;
+.isi-pj h2 {
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
-.header-pj-1 {
-    background-color: rgb(255, 208, 0);
+.section10 h2 strong {
+    color: var(--warna-birutua);
+    font-weight: bold;
 }
