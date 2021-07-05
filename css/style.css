@@ -4,6 +4,7 @@
     --warna-biru : #2892ff; 
     --warna-oren : #f68a1e;
     --warna-birutua : #3c55a5;
+    --warna-hitam : rgb(27, 27, 27);
 }
 
 h1 {
@@ -25,7 +26,7 @@ h5 {
 
 p {
     font-family: 'Poppins', sans-serif;
-    color: black;
+    color: var(--warna-hitam);
 }
 
 strong {
