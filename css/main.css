@@ -317,12 +317,19 @@ body {
     color: black !important;
 }
 
+.container-pj {
+    background-color: rgb(247, 247, 247);
+    border-radius: 25px;
+    padding: 20px;
+}
+
 .section10 h1 {
     color: black !important;
 }
 
 .paket-join {
     text-align: center;
+    padding: 0px 50px;
 }
 
 .header-pj1 {
@@ -346,6 +353,10 @@ body {
 }
 
 .section10 h2 strong {
-    color: var(--warna-birutua);
+    color: rgb(184, 48, 48);
     font-weight: bold;
+}
+
+.section10 button {
+    background-color: rgb(184, 48, 48);
 }
