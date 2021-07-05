@@ -311,3 +311,31 @@ body {
                 max-width: 20%;
             }
         }
+
+.header-pj {
+    text-align: center !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.isi-pj br {
+    margin: 0px;
+}
+
+.isi-pj {
+    text-align: center !important;
+}
+
+.isi-pj p {
+    color: black !important;
+    margin: 0px;
+}
+
+.header-pj h2 strong {
+    color: white !important;
+    margin: 0px;
+}
+
+.header-pj-1 {
+    background-color: rgb(255, 208, 0);
+}
