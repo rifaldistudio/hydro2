@@ -319,7 +319,6 @@ body {
 
 .container-pj {
     background-color: rgb(247, 247, 247);
-    border-radius: 25px;
     padding: 20px;
 }
 
@@ -329,7 +328,30 @@ body {
 
 .paket-join {
     text-align: center;
-    padding: 0px 50px;
+    padding: 10px 10px;
+}
+
+.isi-pj p {
+    color: black !important;
+}
+
+.isi-pj h2 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.section10 h2 strong {
+    color:  var(--warna-biru) ;
+    font-weight: bold;
+}
+
+.section10 button {
+    background-color: var(--warna-biru) !important;
+    border-radius: 0px;
+}
+
+.section10 button:hover {
+    background-color: white;
 }
 
 .header-pj1 {
@@ -343,20 +365,57 @@ body {
     margin: 0px;
 }
 
-.isi-pj p {
+.header-pj2 {
     color: black !important;
+    background-color: green;
+    padding: 10px;
 }
 
-.isi-pj h2 {
-    margin-top: 10px;
-    margin-bottom: 20px;
+.header-pj2 h5 {
+    color: white !important;
+    margin: 0px;
 }
 
-.section10 h2 strong {
-    color: rgb(184, 48, 48);
-    font-weight: bold;
+.header-pj3 {
+    color: black !important;
+    background-color: orangered;
+    padding: 10px;
 }
 
-.section10 button {
-    background-color: rgb(184, 48, 48);
+.header-pj3 h5 {
+    color: white !important;
+    margin: 0px;
+}
+
+.header-pj4 {
+    color: black !important;
+    background-color: red;
+    padding: 10px;
+}
+
+.header-pj4 h5 {
+    color: white !important;
+    margin: 0px;
+}
+
+.header-pj5 {
+    color: black !important;
+    background-color: darkblue;
+    padding: 10px;
+}
+
+.header-pj5 h5 {
+    color: white !important;
+    margin: 0px;
+}
+
+.header-pj6 {
+    color: black !important;
+    background-color: purple;
+    padding: 10px;
+}
+
+.header-pj6 h5 {
+    color: white !important;
+    margin: 0px;
 }
