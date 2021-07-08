@@ -419,3 +419,13 @@ body {
     color: white !important;
     margin: 0px;
 }
+
+.slider-row {
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.slider-row img {
+    max-width:33%;
+    padding: 10px;
+}

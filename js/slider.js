@@ -25,3 +25,10 @@ $('#slider4').carousel({
     keyboard: true,
     touch: true
 });
+
+$('#slider5').carousel({
+    interval: 10000,
+    wrap: true,
+    keyboard: true,
+    touch: true
+});
