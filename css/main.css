@@ -436,3 +436,8 @@ body {
     color: white !important;
     margin: 0px;
 }
+
+.marketing-plan iframe {
+    width: 1500px;
+    height: 844px;
+}
