@@ -165,6 +165,15 @@ body {
 .section6 {
     background-color: white;
     text-align: center;
+    padding-bottom: 0px !important;
+}
+
+.section6-ext {
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: white;
+    padding-top: 0px !important;
+
 }
 
 .section6 h1 {
