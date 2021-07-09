@@ -108,10 +108,18 @@ body {
 
 .section3 {
     background-color: var(--warna-biru);
+    padding-bottom: 0px !important;
 }
 
 .section3 h1, p {
     color: white;
+}
+
+.section3-ext {
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: var(--warna-biru);
+    padding-top: 0px !important;
 }
 
 .para-ahli {
