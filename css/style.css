@@ -163,9 +163,14 @@ button:hover {
     }
 }
 
-
 table {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+.splide__slide img {
+	width : 100%;
+	height: auto;
 }

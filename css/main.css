@@ -80,9 +80,6 @@ body {
     text-align: center;
 }
 
-.testimoni video {
-    max-width: 100%;
-}
 
 .testimoni h1 {
     color: white !important;
@@ -437,7 +434,39 @@ body {
     margin: 0px;
 }
 
-.marketing-plan iframe {
-    width: 1500px;
-    height: 844px;
-}
+
+.container-video {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  }
+  
+  .responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+
+  .container-video1by1 {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 100%; /* 1:1 Aspect Ratio */
+  }
+  
+  .responsive-iframe1by1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
